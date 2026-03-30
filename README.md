@@ -40,5 +40,30 @@ Specifically, the dashboard seeks to answer:
 - Power Query for data cleaning, transformations, and calculations
 - Data Storytelling approach to connect numbers to actionable insights
 ----
+## Conclusion/Recommendations
+The company must focus on the **Production Department** first, addressing the underlying causes of attrition. Strategies include:  
+- Reviewing workforce engagement and satisfaction  
+- Enhancing performance management processes  
+- Targeted retention initiatives for at-risk employees  
+
+By addressing these areas, the company can reduce turnover, retain talent, and improve overall productivity.
+
+---
+
+## Resources
+- **Dataset:** Included in the repository ( Raw HR data)  
+- **Dashboard:** Excel file with charts and visualizations  
+- **Analysis:** Power Query steps and calculations included  
+
+---
+
+## Author
+**Blessing Osondu** –  Data Analyst (In Training)
+
+---
+
+## Acknowledgment
+Special thanks to **Freedom Oboh** for the HR dataset tutorial on YouTube, which guided the learning process behind this project.
+
 
 
