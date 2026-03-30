@@ -29,10 +29,16 @@ Specifically, the dashboard seeks to answer:
 
 ---
 ## Key Findings
-- **Attrition Rate:** 50.2% overall – extremely high.  
+- **Attrition Rate:** 50.2% — extremely high, signaling a critical retention issue.
 - **Department Hotspot:** Production department has the highest attrition.  
 - **Demographics:** Certain age groups and tenure levels are more prone to leaving.  
-- **Engagement vs Attrition:** High engagement scores do not necessarily correlate with low attrition.  
+- **Engagement vs Attrition:** Engagement scores look good but do not align with retention issues.
 - **Performance Management:** High PIP usage indicates possible misalignment between performance expectations and support provided.
-- 
+---
+## Tools & Techniques
+- Excel for dashboarding
+- Power Query for data cleaning, transformations, and calculations
+- Data Storytelling approach to connect numbers to actionable insights
+----
+
 
